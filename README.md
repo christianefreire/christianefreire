@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @christianefreire
-- 👀 I’m interested in Software Engineer
-- 🌱 I’m currently learning Python
+
 
 <!---
 christianefreire/christianefreire is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
